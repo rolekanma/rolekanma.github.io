@@ -1,3 +1,5 @@
 # rolekanma.github.io
 
-These are my personal projects. 
+theme: jekyll-theme-modernist
+title: Welcome to Richard Olekanma's homepage!
+description: Feel free to bookmark this to keep an eye out for any project updates.
