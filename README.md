@@ -3,6 +3,8 @@
 
 [Chicago Bears Exploratory Data Analysis 2019 Week 12](rolekanma.github.io/chicago-bears-eda-up-to-week-12.html)
 
+[NFL Draft Position Predictor](rolekanma.github.io/Draft.html)
+
 [Prescription Recommendations](rolekanma.github.io/drug-prediction.html)
 
 [Masters Class Project Cosmetic Store Recommendation System](rolekanma.github.io/chicago-bears-eda-up-to-week-12.html)
