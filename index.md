@@ -5,7 +5,7 @@
 High level overview of using Random Forests to help predict play calls to maximize Expected Points added given down, distance, score etc.
 
 [HAVI McDonalds Tweet Analysis](rolekanma.github.io/HAVI tweets.html):
-Twitter analysis using TweepyAPI on the Travis Scott "Sicko Mode Burger" promotion that ran in Fall of 2020. Worked on this project during my time at HAVI which does supply chain logistics for McDonald's. 
+Twitter analysis using TweepyAPI on the Travis Scott "Sicko Mode Burger" promotion that ran in Fall of 2020. Sentiment analysis of tweets along with Information Retrieval was conducted. Worked on this project during my time at HAVI which does supply chain logistics for McDonald's. 
 
 [Chicago Bears Exploratory Data Analysis 2019 Week 12](rolekanma.github.io/chicago-bears-eda-up-to-week-12.html):
 Analysis of what went wrong and right for the Chicago Bears Season up until Week 12 of 2019. Lots of media and fans have documented the QB problems, this analysis ignored that position to see if issues were widespread throughout the offense.
