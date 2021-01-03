@@ -12,11 +12,12 @@ Analysis of what went wrong and right for the Chicago Bears Season up until Week
 
 [NFL Draft Position Predictor](rolekanma.github.io/Draft.html): 
 Predict a players draft positions based on their combine stats!
-
+[(Class Project) Machine Learning to Predict Cervical Cancer (R)](https://github.com/rolekanma/rolekanma.github.io/blob/master/CervicalMarkDown%20copy.pdf)
+Analysis in DSC 424 of patient history to predict factors for Cervical Cancer. This study was conducted in R. PCA, PFA and other dimension reduction techniques were performed on the analysis.
 [Prescription Recommendations](rolekanma.github.io/drug-prediction.html):
 Given thousands of patients records and history can we accurately predict whether or not a doctor would recommend "Drug X" to them.
 
-[Masters Class Project Cosmetic Store Recommendation System](rolekanma.github.io/chicago-bears-eda-up-to-week-12.html):
+[(Class Project) Cosmetic Store Recommendation System](rolekanma.github.io/chicago-bears-eda-up-to-week-12.html):
 Class group project to use recommendation systems to predict products a customer would buy. 
 
 [World bank project](rolekanma.github.io/World-bank-Kaggle.html):
