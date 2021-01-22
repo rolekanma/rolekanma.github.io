@@ -1,7 +1,7 @@
 # Welcome to Richard Olekanma's homepage!
 ##### Feel free to bookmark this to keep an eye out for any project updates.
 
-[NFL Big Data Bowl 2021 Submission Coverage Pre-Snap Motion Analysis](https://github.com/rolekanma/rolekanma.github.io/blob/master/coverage-analysis-pre-snap-motion-analysis.html):
+[NFL Big Data Bowl 2021 Submission Coverage Pre-Snap Motion Analysis](rolekanma.github.io/coverage-analysis-pre-snap-motion-analysis.html):
 Using NFL Player Tracking Data from the 2018 Season, every teams defensive coverages and usage rates were predicted based on player positioning along with the success rate of catch vs no catch using pre-snap motion. This function can be used by NFL Teams on a week to week basis to scheme for the opposing team.
 
 [NFL Play Calling Recommendation System](rolekanma.github.io/NFL-Play-Recommendation-System.html):
