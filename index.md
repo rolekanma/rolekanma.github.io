@@ -24,7 +24,7 @@ Analysis in DSC 424 of patient history to predict factors for Cervical Cancer. T
 [Prescription Recommendations](rolekanma.github.io/drug-prediction.html):
 Given thousands of patients records and history can we accurately predict whether or not a doctor would recommend "Drug X" to them.
 
-[(Class Project) Cosmetic Store Recommendation System](rolekanma.github.io/chicago-bears-eda-up-to-week-12.html):
+[(Class Project) Cosmetic Store Recommendation System](rolekanma.github.io/cosmetics-recommendation-system.html):
 Class group project to use recommendation systems to predict products a customer would buy. 
 
 [World bank project](rolekanma.github.io/World-bank-Kaggle.html):
