@@ -14,7 +14,7 @@ Twitter analysis using TweepyAPI on the Travis Scott "Sicko Mode Burger" promoti
 Analysis of what went wrong and right for the Chicago Bears Season up until Week 12 of 2019. Lots of media and fans have documented the QB problems, this analysis ignored that position to see if issues were widespread throughout the offense.
 
 [NFL Draft Position Predictor](rolekanma.github.io/Draft.html): 
-Predict a players draft positions based on their combine stats!
+Predict a players draft positions based on their combine stats.
 
 
 [(Class Project) Machine Learning to Predict Cervical Cancer (R)](https://github.com/rolekanma/rolekanma.github.io/blob/master/CervicalMarkDown%20copy.pdf)
